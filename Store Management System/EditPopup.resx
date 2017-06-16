@@ -117,62 +117,28 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="Button" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Button.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="CancelBTN.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAFoAAAAeCAYAAACsYQl4AAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1
+        MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAALiMAAC4jAXilP3YAAADrSURBVGhD7ZpRCoMwEAV7j0Kh
+        0EP1RL22zQgrGhu1GvZrHsxHshs/RokQvQ0mJXuiP/IXzbREs+hdeBbokX1whbOfwmmYJ+7Mq1BfSI6B
+        u/A4hcI8FOuFco6maApuFf3A5SSbiQj7S90s18DpGAYE849C3SjXuBfGp5oBYVA3SR8UnYSik1B0EopO
+        QtFJKDoJRSeh6CQUnYSik1B0EopOQtFJrER7TNqf1TEp8eC/P6uDf4J5P2X1o/kpi1CoF8g5JsmEiXko
+        gr8bnCee5E3REZrYX3xBHgdXOFsIjtCwlbgzcoxm9kSbLhmGLxAXIKk7+W0mAAAAAElFTkSuQmCC
+</value>
   </data>
-  <data name="ButtonV" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ButtonV.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="SaveBTN.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAAFoAAAAeCAYAAACsYQl4AAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1
+        MAAA6mAAADqYAAAXb5JfxUYAAAAJcEhZcwAALiMAAC4jAXilP3YAAADrSURBVGhD7ZpRCoMwEAV7j0Kh
+        0EP1RL22zQgrGhu1GvZrHsxHshs/RokQvQ0mJXuiP/IXzbREs+hdeBbokX1whbOfwmmYJ+7Mq1BfSI6B
+        u/A4hcI8FOuFco6maApuFf3A5SSbiQj7S90s18DpGAYE849C3SjXuBfGp5oBYVA3SR8UnYSik1B0EopO
+        QtFJKDoJRSeh6CQUnYSik1B0EopOQtFJrER7TNqf1TEp8eC/P6uDf4J5P2X1o/kpi1CoF8g5JsmEiXko
+        gr8bnCee5E3REZrYX3xBHgdXOFsIjtCwlbgzcoxm9kSbLhmGLxAXIKk7+W0mAAAAAElFTkSuQmCC
+</value>
   </data>
-  <data name="EmployeeMN" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\EmployeeMN.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="eYE" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\eYE.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="EyeWhite" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\EyeWhite.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Monitoring" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Monitoring.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Purchase" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Purchase.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Transactions" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Transactions.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="UserManBG" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\UserManBG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="BTNB" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BTNB.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="LoginBG" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\LoginBG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Background" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Background.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="BTNV2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BTNV2.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Customer" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Customer.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="NextPage" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\NextPage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="Oder_Lines" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Oder Lines.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="OrdersBG" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\OrdersBG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="PrevPage" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\PrevPage.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="ProductBG" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\ProductBG.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
+  <metadata name="FadeTMR.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>17, 17</value>
+  </metadata>
 </root>

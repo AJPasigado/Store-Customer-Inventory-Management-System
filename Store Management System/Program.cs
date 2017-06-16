@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Store_Management_System {
+namespace Midterm_Exam {
     static class Program {
         /// <summary>
         /// The main entry point for the application.
@@ -13,7 +13,7 @@ namespace Store_Management_System {
         static void Main() {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Start());
         }
     }
 }

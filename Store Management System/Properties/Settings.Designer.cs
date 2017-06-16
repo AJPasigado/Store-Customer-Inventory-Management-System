@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace Store_Management_System.Properties {
+namespace Midterm_Exam.Properties {
 
 
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
